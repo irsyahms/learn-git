@@ -1,1 +1,1 @@
-belajar git
+belajar git bersama G2Academy
